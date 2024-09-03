@@ -1,1 +1,3 @@
 ssample hiiii
+
+mult(a,b)
